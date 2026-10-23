@@ -1,0 +1,6 @@
+service,owner,result,detail
+auth-service,Priya Raman,GO,clear
+billing-service,Tomas Novak,NO-GO,open blockers
+edge-proxy,Aisha Bello,GO,clear
+payments-service,Dana Whitfield,NO-GO,test run not green
+search-service,Sofia Rossi,GO,clear
